@@ -1,0 +1,9 @@
+.hideopen{
+ padding: 9px;
+ font-size: 9px;
+ font-weight: bold;
+ background-color: chartreuse;
+ border: none;
+ border-radius: 6px;
+ cursor: pointer;
+}

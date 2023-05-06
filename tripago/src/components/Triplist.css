@@ -1,0 +1,46 @@
+.trip-list{
+ width: 480px;
+ margin: 60px auto;
+ font-weight: 100;
+}
+.trip-list ul{
+ padding: 10;
+ list-style-type: none;
+}
+.trip-list{
+ border: 1px solid #e4e4e4;
+ box-sizing: border-box;
+ padding: 10px;
+ box-shadow: 4px 4px 6px rgba(0,0,0,0.05);
+ border-radius: 4px;
+ list-style-type: none;
+ margin: 20px 0;
+ background-color: bisque;
+ margin-left: 30px;
+}
+.eutripbtn{
+ padding: 7px;
+ font-size: 9px;
+ font-weight: bold;
+ border: none;
+ border-radius: 6px;
+ margin-left: 10px;
+ cursor: pointer;
+ background-color: chartreuse;
+
+}
+.divider{
+ height: 2px;
+ background-color: red;
+ border: none;
+}
+
+.allbtn{
+ padding: 7px;
+ font-size: 9px;
+ font-weight: bold;
+ border: none;
+ border-radius: 6px;
+ background-color: chartreuse;
+ cursor: pointer;
+}
